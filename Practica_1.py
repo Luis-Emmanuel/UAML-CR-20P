@@ -150,4 +150,4 @@ plt.show()
 
 '''
 Nota: debido a falta de tiempo por otros deberes y falta de experiencia con el manejo de funciones con python ya no me fue posible cumplir con la parte 4 de la practica.
-
+'''
